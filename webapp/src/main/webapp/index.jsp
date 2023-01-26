@@ -1,6 +1,6 @@
 <form action="action_page.php">
   <div class="container">
-    <h1>spycr learning devops project with yenkils</h1>
+    <h1 style="color:green">Spycr learning devops project with yenkils</h1>
     <p>Please fill in this form to create an account.</p>
     <hr>
      
