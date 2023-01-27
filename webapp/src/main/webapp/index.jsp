@@ -1,7 +1,8 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:black">Learn Devops Tools with Spycr and Yenkils</h1>
-    <p>New User?<h3 style="color:blue"> Create an Account</h3></p>
+    <h3 style="color:blue"> Create an Account</h3>
+    <button type="button">About us</button>
     <hr>
      
     <label for="Name"><b>Enter Name</b></label>
