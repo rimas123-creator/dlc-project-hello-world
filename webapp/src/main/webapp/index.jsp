@@ -1,19 +1,19 @@
 <form action="action_page.php">
   <div class="container">
     <h1 style="color:black">Learn Devops Tools with Spycr and Yenkils</h1>
-    <h3 style="color:blue"> Create an Account</h3>
+    <h3 style="color:blue"> IF NewUser? Create an Account</h3>
     <button type="button">About us</button>
     <hr>
      
-    <label for="Name"><b>Enter Name</b></label>
+    <label for="Name"><b> UserName</b></label>
     <input type="text" placeholder="Enter Full Name" name="Name" id="Name" required>
     <br>
     
-    <label for="mobile"><b>Enter mobile</b></label>
+    <label for="mobile"><b>MobileNumber</b></label>
     <input type="text" placeholder="Enter moible number" name="mobile" id="mobile" required>
     <br>
 
-    <label for="email"><b>Enter Email</b></label>
+    <label for="email"><b>Email</b></label>
     <input type="text" placeholder="Enter Email" name="email" id="email" required>
     <br>
 
